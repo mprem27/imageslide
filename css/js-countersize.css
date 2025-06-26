@@ -29,11 +29,10 @@ body{
 }
 .next{
     right: 10px;
-    position: fixed;
 }
 .prev{
     left: 10px;
-    position: fixed;
+
 }
 /* .caption{
     color: white;
